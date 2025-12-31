@@ -191,8 +191,3 @@ This project template can be adapted for:
 - **Healthcare**: Patient retention analysis
 
 ---
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see below:
