@@ -100,31 +100,10 @@ scipy>=1.7.0
 
 ### Profitability
 - Average CLV
-- CLV to CAC ratio
 - Payback period
 
-### Strategic Recommendations
 
-**Immediate Actions:**
-1. At-risk customers
-2. Implement churn prediction in CRM
-3. Launch retention campaign for high-risk segments
-
-**Short-term (1-3 months):**
-1. Develop segment-specific success playbooks
-2. Implement usage monitoring system
-3. Optimize onboarding by cohort
-4. A/B test retention strategies
-
-**Long-term (6-12 months):**
-1. Reduce churn by 20% 
-2. Expand highest-value segments
-3. Build real-time prediction system
-4. Achieve growth rate
-
----
-
-## 🔍 Methodology Details
+## Important Details
 
 ### 1. Data Generation
 We generated realistic synthetic data:
@@ -158,36 +137,5 @@ We generated realistic synthetic data:
 - Financial impact quantification
 - Risk stratification
 - Actionable recommendations
-
----
-
-
-## 📚 Resources & References
-
-### Datasets
-- Synthetic data generated
-- Mimics real-world SaaS subscription business patterns
-
-### Learning Materials
-- **Time Series**: "Forecasting: Principles and Practice" by Hyndman & Athanasopoulos
-- **Customer Analytics**: "Customer Analytics for Dummies" by Jeff Sauro
-- **Python**: "Python for Data Analysis" by Wes McKinney
-
-### Tools & Libraries
-- [Pandas Documentation](https://pandas.pydata.org/)
-- [Scikit-learn](https://scikit-learn.org/)
-- [Statsmodels](https://www.statsmodels.org/)
-- [Prophet](https://facebook.github.io/prophet/)
-
----
-
-## 🎯 Use Cases
-
-This project template can be adapted for:
-- **SaaS Companies**: Subscription revenue forecasting
-- **E-commerce**: Customer retention analysis
-- **Banking**: Customer churn prediction
-- **Telecom**: Service cancellation forecasting
-- **Healthcare**: Patient retention analysis
 
 ---
